@@ -1,0 +1,16 @@
+{
+"talkDef":
+    { 
+    "service": "addText",
+    "textLines": [
+    "<h2>About Talk Page Services</h2>",
+    "<p>The idea behind the talk page(s) is to inform the end-user about the services an object might provide.</p>",
+    "<p>For example, the background object(service) would announce colors, so other objects could reference them and in turn provide objects which match the screen's color environment.</p>",
+    "<p>Since a talk page is also based on a canvas, I'm also looking at the idea where when choosing a replacement background, with the preview at the canvas, would be directly transfered, from canvas to canvas and at the resulting off-screen view, with the new chosen background.</p>",
+    "<p>Similarly, a text page or Web page background, could be rounded corners or provide patterns and design options, but again, once being view, chosen page background would be pulled from the talk canvas. Some services might live in the background only, such as the talk pages, and the lock and unlock feature.</p>",
+    "<p>Talk page links are integrated within each canvas tag, making the invisible, but they can be previewed through a browser's developer tools.</p>",
+    "<p>The site is quickly becoming HTML5 canvas objects and jSon only and hopefully I'll moving forward with the talk pages, sooner then later.</p>"
+    ]
+
+    }
+}
