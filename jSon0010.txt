@@ -4,7 +4,7 @@
         {
         "service": "replacesNode",
         "key":"key001",
-        "data": "<obj class=\"B001\" id=\"key001\"><canvas width=\"4400\" height=\"3200\" class=\"D001\">TalkSet/talkDefault.txt</canvas></obj>"
+        "data": "<obj class=\"B001\" id=\"key001\"><canvas width=\"4400\" height=\"3200\" class=\"D001\">talkDefault.txt</canvas></obj>"
         },
     "service2":
         {
@@ -17,7 +17,7 @@
         {    
         "service": "replacesNode",
         "key":"key002",
-        "data":"<obj class=\"B002\" id=\"key002\"><canvas width=\"1160\" height=\"140\" class=\"D002\">TalkSet/talkDefault.txt</canvas></obj>"
+        "data":"<obj class=\"B002\" id=\"key002\"><canvas width=\"1160\" height=\"140\" class=\"D002\">talkDefault.txt</canvas></obj>"
         },
     "service4":
         {
@@ -28,7 +28,7 @@
         {
         "service": "replacesNode",
         "key":"key024",
-        "data": "<obj class=\"B024\" id=\"key024\"><canvas width=\"960\" height=\"1180\" class=\"D024\">TalkSet/talkDefault.txt</canvas></obj>"
+        "data": "<obj class=\"B024\" id=\"key024\"><canvas width=\"960\" height=\"1180\" class=\"D024\">talkDefault.txt</canvas></obj>"
         },
     "service6":
         {
@@ -41,7 +41,7 @@
         {
         "service": "replacesNode",
         "key":"key031",
-        "data": "<obj class=\"B031\" id=\"key031\"><canvas width=\"960\" height=\"1180\" class=\"D031\">TalkSet/talkDefault.txt</canvas></obj>"
+        "data": "<obj class=\"B031\" id=\"key031\"><canvas width=\"960\" height=\"1180\" class=\"D031\">talkDefault.txt</canvas></obj>"
         },
     "service8":
         {
