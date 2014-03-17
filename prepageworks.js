@@ -203,9 +203,9 @@
     window.onload = function () {
         if (typeof document.createNodeIterator != "undefined") {
             service.setView();
-            LoadFiles("jSonSet/jSon0010.txt");
-            LoadFiles("XmlSet/page0010.xml");
-            LoadFiles("XmlSet/page0020.xml");
+            LoadFiles("jSon0010.txt");
+            LoadFiles("page0010.xml");
+            LoadFiles("page0020.xml");
 
         }
         else
