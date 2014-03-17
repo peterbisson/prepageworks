@@ -2,25 +2,16 @@
 <WebPage class="D025">
 <div class="heading">
     <picture> </picture>
-    <h1>Following Microsoft's Lead</h1>
+    <h1>Scripting The DOM</h1>
     <htmLogo> </htmLogo> 
 </div>
 <div class="topicbar">
 
 </div>
 <div class="content">
-<h2>Learning From Microsoft</h2>
+<h2>A Shorter Technology Path</h2>
 <h4>Peter Bisson (Client-Side Dev. Since 1996.)</h4>
-<p>If you wanted to learn from Microsoft, you could always go off to <a href="http://www.msdn.com/" target="_blank">
-Microsoft&#39;s MSDN</a>, click on library, add your search criteria, select your favorite site search results, and link to the topics or you could also <a href="http://www.msdn.com/" target="_blank">return to MSDN</a>, find Visual Studio and download it or <a href="http://www.visualstudio.com/" target="_blank">visit Visual Studio's site directly</a>, and download Visual Studio and once your done, <a href="http://www.windowsazure.com/en-us/downloads/webmatrix-overview/" target="_blank">download WebMatrix from Azure</a> and have more then enough resources to get started.</p>         
-<p>However, if you wanted to get serious about learning from Microsoft and you don't have Windows 8, you might <a href="http://windows.microsoft.com/" target="_blank">get and install Windows 8</a> and/or <a href="http://www.microsoft.com/en-us/server-cloud/products/windows-server-2012-r2/default.aspx#fbid=4DyksOX7XY0" target="_blank">Windows Server 2012 R2</a>, even partner with Microsoft and obtain the applications through their new <a href="https://mspartner.microsoft.com/en/us/Pages/Membership/action-pack-subscriptions.aspx" target="_blank"> Microsoft Action Pack Subscriptions</a>, but by combining Windows 8.1 and Visual Studio's support for Windows Apps, you can look into how an app works with Windows.</p>
-<p>However, once you start going down that road, ideally you would move to HTML5 because HTML5 is a technology which can be compared to Microsoft's Silverlight and Xaml, but that's exactly what I do as a developer, I import Microsoft methods of developing to open source.</p>
-<p>For example, it took two years of study to learn how Windows 8 and Windows Apps, work together, and come out with a site, which in opinion builds on synergy with Microsoft's technology, where if you right click the page, the page is transformed into a box view, but the idea has to do with the study of how apps might one day work together within a screen view.</p>
-<p>In other words, once you have right clicked the page, as your mouse passes over in use boxes, this opens up a talk page provides information about the features supported within an object view and use rights of the object. So, that if a person wrote a Web page and text content, they might announce through the colors they use and the background application would also 
-announce color use, so both apps and background environment, since they are affected by color changes at any time, such as a change in color templates, then adjustment could be made, to produce a better screen and document color view.</p>
-<p>In game programming, how objects change or transform, is called collision. So, to try to think in terms of which technologies, client-side can support collision, we could look into Windows Apps and Xaml, and learn that Microsoft works with jSon, and incidentally, as it turns out jSon also works very well with HTML5 canvas applications.</p>
-<p>There are other features that I borrow from Microsoft's ASP.Net and SharePoint, but unfortunately, with the increase in devices and methods, I don't have much time for server-side developing, as well, because there are likely ADO and MSSQL methods which can be imported to client-side developing but what the study does, as HTML5 and jSon somewhat accomplish, is deprecate older technologies and makes room for new ones.</p>
-<p>The topic of what's new across devices is huge, but it is narrowing down, from device developers realizing their need for an operating system to HTML5 and JavaScript. As far as server-side developing, narrowing down server technology has been tried with JavaScript but I figure with little success. Rather, I'm finding methods which client-side developing help decrease server load and apps working together, may just be the help that is required of a server.</p>
+<p></p>
 </div>
 <div class="footer">Copyright 2014 Peter Bisson. All rights reserved.</div>
 </WebPage>
