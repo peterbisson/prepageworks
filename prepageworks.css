@@ -1,0 +1,347 @@
+* {
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+
+body {
+    width:4400px;
+    height: 3200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#333;
+}
+
+body h3 {
+    display: block;
+    position:fixed;
+    left: 0px;
+    top: 0px;
+    width: auto;
+    height: auto;
+    font-size: 16pt;
+    font-weight: 600;
+    margin: 20px 0px 0px 30px;
+    z-index: 999; 
+}
+
+
+obj {
+    display: block;
+    position:relative;
+    left: 0px;
+    top: 0px;
+    width: 188px;
+    height: 188px;
+    float: left;
+    
+}
+
+.off {
+    border: 1px #CCC solid;
+    margin: 5px;
+    z-index: 1; 
+}
+
+
+.talk {
+    display: none;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 600px;
+    height: 800px;
+    background-color: #fff;
+    border: 1px #000 solid;
+    
+    z-index: 900;
+}
+
+.talkCanvas {
+    display: block;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 600px;
+    height: 800px;
+}
+
+
+WebPage {
+    background-color: #fff;
+}
+
+.heading {
+    display: block;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 99px;
+    border-bottom: 1px #CCC solid;
+}
+
+.heading picture {
+    display: block;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    width: 84px;
+    height: 84px;
+    background: #fff url('authorpeter.jpg') no-repeat;
+    float: left;
+    margin: 10px 0px 0px 12px;
+}
+
+.heading h1 {
+    display: block;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    width: 765px;
+    height: 99px;
+    font-size: 22pt;
+    line-height: 98px;
+    font-weight: normal;
+    text-align: center;
+    float: left;   
+}
+
+.heading htmLogo {
+    display: block;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    width: 84px;
+    height: 84px;
+    background-image:  url('html5Logo.png');
+    background-repeat: no-repeat;
+    margin: 7px;
+    float: left;
+    
+}
+
+.content {
+    display: block;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 980px;
+}
+
+.footer {
+    display: block;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 39px;
+    line-height: 38px;
+    font-size: 9pt;
+    text-align: center;
+    border-top: 1px #CCC solid;
+}
+
+.content h2 {
+    font-weight: normal;
+    margin: 50px 60px 0px 60px;    
+}
+
+.content h4 {
+    font-size: 10.5pt;
+    font-weight: normal;
+    margin: 0px 60px 20px 60px;    
+}
+
+p {
+    font-size: 10.5pt;
+    line-height: 22px;
+    margin: 20px 60px 20px 60px;
+}
+
+
+.A001 {
+    margin: 6px;
+    z-index: 1;
+}
+
+.B001 {
+    margin: 5px;
+    z-index: 10;
+}
+
+.C001 {
+    display: block;
+    position:absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+.D001 {
+    display: block;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 4400px;
+    height: 3200px;
+    margin: -5px 0px 0px -5px;
+}
+
+
+.A002 {
+    margin: 6px;
+    z-index: 1;
+}
+
+.B002 {
+    margin: 5px;
+    z-index: 15;
+}
+
+.C002 {
+    display: block;
+    position:absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: blue;
+}
+
+.D002 {
+    display: block;
+    position: fixed;
+    left: 200px;
+    top: 0px;
+    width: 1160px;
+    height: 140px;
+    background-color: transparent;
+    margin: 80px 0px 0px 0px;
+}
+
+.A024 {
+    margin: 6px;
+    z-index: 1;
+}
+
+.B024 {
+    margin: 5px;
+    z-index: 20;
+}
+
+.C024 {
+    display: block;
+    position:absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: #cbb3ff; 
+}
+
+.D024 {
+    display: block;
+    position: absolute;
+    left: 200px;
+    top: 0px;
+    width: 960px;
+    height: 1180px;
+    background-color: transparent;
+    margin: 50px 0px 0px -80px;
+}
+
+.A025 { margin: 6px; z-index: 1; }
+
+.B025 { margin: 5px; z-index: 30; }
+
+.C025 {
+    display: block;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 960px;
+    height: 1180px;
+    transform-origin: .2% .2%;
+    transform: scale(0.14, 0.14);
+    margin: 10px 0px 0px 20px;
+}
+
+.D025 {
+    display: block;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 960px;
+    height: 1180px;
+    background-color: transparent;
+    transform: scale(100%, 100%);
+    margin: 50px 0px 0px -78px;
+}
+
+.A031 {
+    margin: 6px;
+    z-index: 1;
+}
+
+.B031 {
+    margin: 5px;
+    z-index: 20;
+}
+
+.C031 {
+    display: block;
+    position:absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: #cbb3ff; 
+}
+
+.D031 {
+    display: block;
+    position: absolute;
+    left: 200px;
+    top: 0px;
+    width: 960px;
+    height: 1180px;
+    background-color: transparent;
+    margin: 50px 0px 0px -80px;
+}
+
+.A032 {
+    margin: 6px;
+    z-index: 1;
+}
+
+.B032 {
+    margin: 5px;
+    z-index: 30;
+}
+
+.C032 {
+    display: block;
+    position:absolute;
+    left: 0px;
+    top: 0px;
+    width: 960px;
+    height: 1180px;
+    transform-origin: .2% .2%;
+    transform: scale(0.14, 0.14);
+    margin: 10px 0px 0px 20px;
+}
+
+.D032 {
+    display: block;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 960px;
+    height: 1180px;
+    background-color: transparent;
+    transform: scale(100%, 100%);
+    margin: 50px 0px 0px -78px;
+}
+
